@@ -1,7 +1,4 @@
-# COSC204 assignment 2
-Student ID: 6170302
-
-Didn't colaborate kept a development log anyway :O
+File system driver for Linux
 
 ## Dev log 
 <!-- store -->
